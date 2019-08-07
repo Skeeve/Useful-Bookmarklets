@@ -1,6 +1,7 @@
 # FB-annoying
 
-Don't you hate it, when people share cool or motivational pictures?
+Don't you hate it, when people share cool or motivational pictures
+of some useless facebook pages?
 I usually block the page of the pictures, not the person sharing it.
 
 But I find it rather cumbersome to click through the process of:
